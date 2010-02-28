@@ -1,0 +1,30 @@
+plugin.rzlightbox {
+
+# cat=rzlightbox/o1; type=boolean; label=Deactivate Lightbox: This deactivates the Lightbox and doesn't insert the JS and CSS anymore;
+deactivate = 0 
+
+# cat=rzlightbox/o1; type=boolean; label=Enable jQuery globally;
+enableGlobal = 0     
+
+# cat=rzlightbox/o2; type=string; label=Overlay Opacity: Set the opacity level (usage like 0.8);
+opacity = 0.8
+
+# cat=rzlightbox/o3; type=boolean; label=Enable tt_news Single View: This enables the Lightbox for tt_news Images in single view;
+ttnewsSingle = 0 
+
+# cat=rzlightbox/o4; type=string; label=Rel: Set the rel name;
+rel = lightbox
+                                
+# cat=rzlightbox/o5; type=string; label=Path to Locallang File: Example - typo3conf/rzlightbox/locallang.xml;
+lllPath = 
+
+# cat=rzlightbox/o6; type=boolean; label=Enable tt_news Latest View: This enables the Lightbox for tt_news Images in latest view;
+ttnewsLatest = 0 
+
+# cat=rzlightbox/o7; type=boolean; label=Enable tt_news List View: This enables the Lightbox for tt_news Images in list view;
+ttnewsList = 0 
+
+# cat=rzlightbox/o8; type=string; label=Path to CSS File: (usage like fileadmin/templates/js/lightbox/lightbox.css);
+cssPath = 
+
+}

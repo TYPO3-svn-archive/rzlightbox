@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>Locallang file for use in Lightbox Javascript</description>
+		<authorName>Raphael Zschorsch</authorName>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="counterText">Image {x} of {y}</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="counterText">Bild {x} von {y}</label>
+		</languageKey>
+		<languageKey index="dk" type="array">
+		</languageKey>
+		<languageKey index="fr" type="array">
+		</languageKey>
+	</data>
+</T3locallang>
